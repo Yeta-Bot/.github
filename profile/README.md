@@ -20,5 +20,5 @@ Yeta Botlist, Discord botlarınızı tanıtabileceğiniz bir platformdur.Yeta bo
 ## Botu Ekle
 [Botu Ekle]
 
-[Discord Sunucusu]: https://discord.gg/KAr8vd9FJh
+[Discord Sunucusu]: https://discord.gg/pY6gTEUjNV
 [Botu Ekle]: https://discord.com/api/oauth2/authorize?client_id=1073671595450712104&permissions=8&scope=bot%20applications.commands
